@@ -1,0 +1,17 @@
+.allProduct-button{
+    
+        background-color: black;
+        color: beige;
+        border: 1px solid white;
+       
+       width: 180px;
+       transition: width 2s linear 0s;
+        
+   
+    
+}
+
+
+.allProduct-button:hover{
+    border-radius: 20px;
+}

@@ -1,0 +1,172 @@
+[
+    {
+     
+     
+      "name": "table",
+      "price": 1420,
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "supplierman": "Rupti",
+      "ratingsCount": 3725,
+      "img": "https://i.ibb.co/9qLyXtM/table3.jpg",
+      "quantity": 10
+    },
+    {
+     
+      
+       "name": "Bed",
+      "price": 24200,
+      "supplierman": "Sopti",
+      "ratingsCount": 3725,
+      "img": "https://i.ibb.co/PNPwvRV/bed3.jpg",
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "quantity": 11
+    },
+    {
+    
+       "name": "Lamp-Table",
+      "price": 1320,
+      "supplierman": "Mera-Colpit",
+      "ratingsCount": 3725,
+      "img": "https://i.ibb.co/FByg0sM/lamptab2.jpg",
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "quantity": 12
+    },
+    {
+   
+       "name": "Sofa",
+      "price": 14440,
+      "supplierman": "Poga Cheri",
+      "ratingsCount": 3725,
+      "img": "https://i.ibb.co/Jzm1qYx/sofa2.jpg",
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "quantity": 13
+    },
+    {
+     
+       "name": "Chair",
+      "price": 1420,
+      "supplierman": "mendela Cheri",
+      "ratingsCount": 3725,
+      "img": "https://i.ibb.co/c366gJd/chair3.jpg",
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "quantity": 14
+    },
+    {
+     
+       "name": "Daining-Table",
+      "price": 9780,
+      "supplierman": "lompa Cheri",
+      "ratingsCount": 3725,
+      "img": "https://i.ibb.co/4RcfxNN/daining-table1.jpg",
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "quantity": 15
+    },
+
+   
+    
+    
+    
+    
+   
+
+
+
+
+
+
+    {
+      
+   
+       "name": "table",
+      "price": 4980,
+      "supplierman": "Rupti",
+      "ratingsCount": 3725,
+      "img": "https://i.ibb.co/8xx3LcZ/table2.jpg",
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "quantity": 16
+    },
+    {
+      
+    
+       "name": "Bed",
+      "price": 21820,
+      "supplierman": "Sopti",
+      "ratingsCount": 3725,
+      "img": " https://i.ibb.co/LkpW9fQ/bed2.jpg",
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "quantity": 17
+    },
+    {
+     
+       "name": "Bed",
+      "price": 21420,
+      "supplierman": "Sopti",
+      "ratingsCount": 3725,
+      "img": " https://i.ibb.co/QKK3xQk/bed1.jpg",
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "quantity": 12
+    },
+    {
+      
+       "name": "Lamp-Table",
+      "price": 3320,
+
+      "supplierman": "Mera-Colpit",
+      "ratingsCount": 3725,
+      "img": " https://i.ibb.co/fD055Qn/lamptab2.jpg",
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "quantity": 9
+    },
+   
+    {
+   
+       "name": "Sofa",
+      "price": 17420,
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "supplierman": "Poga Cheri",
+      "ratingsCount": 3725,
+      "img": "https://i.ibb.co/ZJ08jTp/sofa3.jpg",
+      "quantity": 60
+    },
+    {
+   
+       "name": "Sofa",
+      "price": 14420,
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "supplierman": "Poga Cheri",
+      "ratingsCount": 3725,
+      "img": "https://i.ibb.co/zSYq4pK/sofa1.jpg",
+      "quantity": 120
+    },
+    {
+      "id": 13,
+       "name": "Chair",
+      "price": 1420,
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "supplierman": "mendela Cheri",
+      "ratingsCount": 3725,
+      "img": "https://i.ibb.co/Gp5DPmq/1111111111111.jpg",
+      "quantity": 19
+    },
+    {
+      
+       "name": "Daining-Table",
+      "price": 4420,
+      "supplierman": "lompa Cheri",
+      "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+      "ratingsCount": 3725,
+      "img": "https://i.ibb.co/kMrFNq4/2222222.jpg",
+      "quantity": 57
+    },
+    {
+     
+        "name": "Lamp-Table",
+       "price": 1420,
+       "supplierman": "Mera-Colpit",
+       "description": "This is best Quality and Baest service  in Mozahid Furniture Warehouse.My all coustomer commant me..I am happy too much fo buy your Furniture  ",
+       "ratingsCount": 3725,
+       "img": " https://i.ibb.co/5LkTSJm/33333333333.jpg",
+       "quantity": 12
+     }
+    
+]
