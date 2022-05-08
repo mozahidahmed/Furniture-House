@@ -13,7 +13,7 @@ const UserId = () => {
 
     useEffect(()=>{
 
-        const url=`http://localhost:5000/product/${id}`;
+        const url=`https://fast-spire-75245.herokuapp.com/product/${id}`;
         fetch(url)
         .then(res=>res.json())
         .then(data=>setProduct(data))
@@ -36,7 +36,7 @@ const navigatToManageItem=event=>{
  const handleDelivered= () =>{
    
    const productQuantity={quantity:quantity-1};
-   const url=`http://localhost:5000/product/${_id}`;
+   const url=`https://fast-spire-75245.herokuapp.com/product/${_id}`;
              fetch(url,{
             method:'PUT',
             headers:{
@@ -63,7 +63,7 @@ const restockValue=event.target.restock.value;
 const value=parseInt(restockValue);
 const restock={quantity:parseInt(quantity)+value}
 
-const url=`http://localhost:5000/product/${_id}`;
+const url=`https://fast-spire-75245.herokuapp.com/product/${_id}`;
 fetch(url,{
     method:'PUT',
     headers:{

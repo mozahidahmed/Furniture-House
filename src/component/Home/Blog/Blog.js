@@ -7,7 +7,7 @@ const Blog = () => {
 
                     <div className='col-lg-6 col-md-6'>
                         <h1>Welcome To Mozahid <br/> Furniture House</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla exercitationem praesentium obcaecati error, minima atque eligendi voluptates. Quasi, similique exercitationem.</p>
+                        <p>Mozahi furniture The best in at Sylhet. Nulla exercitationem praesentium obcaecati error, minima atque eligendi voluptates. Quasi, similique exercitationem.</p>
                         <button className='px-5 py-2 blog-button'>Shop Now</button>
 
                     </div>

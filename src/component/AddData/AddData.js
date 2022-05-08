@@ -21,14 +21,14 @@ const handleAddData=event=>{
     img:event.target.img.value,
 
   }
-axios.post('http://localhost:5000/product',product)
+axios.post('https://fast-spire-75245.herokuapp.com/product',product)
 .then(response=>{
   const {data}=response;
   console.log(data);
   alert('Data Add Sucess full')
   event.target.reset();
 })
-axios.post('http://localhost:5000/order',product)
+axios.post('https://fast-spire-75245.herokuapp.com/order',product)
 .then(response=>{
   const {data}=response;
   console.log(data);
@@ -96,7 +96,7 @@ export default AddData;
 //   const onSubmit = data => {
  
 
-// const url=`http://localhost:5000/product`;
+// const url=`https://fast-spire-75245.herokuapp.com/product`;
 // fetch(url,{
 // method: 'POST',
 // headers : {
