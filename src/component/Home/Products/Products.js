@@ -22,7 +22,7 @@ const navigateToProductDetails=id=>{
 
 return (
        <div>
-<h1 className='text-center mt-4'>Warehouse Product </h1>
+<h1 className='text-center mt-4'>Warehouse Product mozahid </h1>
 
          
       <div className='row d-flex justify-content-center'>
