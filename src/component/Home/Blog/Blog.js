@@ -3,11 +3,11 @@ import './Blog.css';
 
 const Blog = () => {
     return (
-        <div className='row blog-container'>
+        <div className='row blog-container container'>
 
                     <div className='col-lg-6 col-md-6'>
                         <h1>Welcome To Mozahid <br/> Furniture House</h1>
-                        <p>Mozahi furniture The best in at Sylhet. Nulla exercitationem praesentium obcaecati error, minima atque eligendi voluptates. Quasi, similique exercitationem.</p>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum quam iste officiis eligendi, veniam exercitationem sequi deleniti itaque optio nulla fugiat omnis, odit distinctio, rerum quos dolores numquam. Architecto sapiente voluptas corporis obcaecati quidem veniam sit eaque tenetur reprehenderit consequuntur? Tempore doloremque consequuntur aliquam, mollitia dolor ipsum perferendis dolores sequi!</p>
                         <button className='px-5 py-2 blog-button'>Shop Now</button>
 
                     </div>
