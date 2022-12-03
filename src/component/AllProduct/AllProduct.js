@@ -11,7 +11,7 @@ const [products,setProducts]=useProducts();
 const handleDelete=id=>{
     const proceed=window.confirm('Are You sure?');
     if(proceed){
-        const url=`https://fast-spire-75245.herokuapp.com/product/${id}`;
+        const url=`https://mozahidfurniture.onrender.com/product/${id}`;
         fetch(url,{
             method: 'DELETE'
         })

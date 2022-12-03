@@ -13,7 +13,7 @@ const MyProducts = () => {
     const handleDelete=id=>{
         const proceed=window.confirm('Are You sure?');
         if(proceed){
-            const url=`https://fast-spire-75245.herokuapp.com/order/${id}`;
+            const url=`https://mozahidfurniture.onrender.com/order/${id}`;
             fetch(url,{
                 method: 'DELETE'
             })
@@ -50,7 +50,7 @@ const MyProducts = () => {
 
                     const getProduct=async()=>{
                      const email=user.email;
-                    const url=`https://fast-spire-75245.herokuapp.com/order?email=${email}`;
+                    const url=`https://mozahidfurniture.onrender.com/order?email=${email}`;
                     const {data} = await axios.get(url);
                     setProduct(data);
 
